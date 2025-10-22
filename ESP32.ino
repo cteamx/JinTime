@@ -4,16 +4,18 @@
 #include <WebServer.h>
 #include <DNSServer.h>
 #include <Preferences.h>
-#include <ESPmDNS.h>   // 关键：包含 ESP32 的 mDNS 库
-#include <time.h>      // NTP 时间功能
-#include <sys/time.h>  // 系统时间设置
+#include <ESPmDNS.h>   
+#include <time.h>      
+#include <sys/time.h>  
 #include <Arduino.h>
 #include <SPIFFS.h>
 #include <Audio.h>
 
-// 系统标题常量
+// 系统标题
 const char* SYSTEM_TITLE = "三斤智能钟";
+// AP WIFI 密码
 const char* AP_PASSWD = "88888888";
+// mDNS 地址，默认是 https://time.local
 const char* MDNS_NAME = "time";
 
 // 舵机引脚定义
