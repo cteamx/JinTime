@@ -4,13 +4,13 @@
 
 ## 演示视频
 
-<a href="https://res.4p.io/time/video.mp4" target="_blank">👉 查看视频</a>
+👉 <a href="https://res.4p.io/time/video.mp4" target="_blank">查看视频</a>
 
 ## 制作教程
 
 > 材料购买 + 安装
 
-<a href="https://mp.weixin.qq.com/s/AsMNsmtuo1j1VLAA3zim8A" target="_blank">👉 查看文档</a>
+👉 <a href="https://mp.weixin.qq.com/s/AsMNsmtuo1j1VLAA3zim8A" target="_blank">查看文档</a>
 
 ## 文件说明
 
