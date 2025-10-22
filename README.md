@@ -4,7 +4,7 @@
 
 ## 演示视频
 
-<video src="https://res.4p.io/time/video.mp4" controls=""></video>
+👉 [观看完整演示视频](https://res.4p.io/time/video.mp4)
 
 ## 制作教程
 
@@ -23,4 +23,4 @@ https://mp.weixin.qq.com/s/AsMNsmtuo1j1VLAA3zim8A
 
 > 花了好几个小时画的图，看懂接线图才可以成功做出来时钟
 
-![Wiring Diagram](Wiring Diagram.png)
+![Wiring Diagram](Wiring_Diagram.png)
